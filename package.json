@@ -1,5 +1,5 @@
 {
-  "name": "react-umg",
+  "name": "@dimensionlab/react-umg",
   "version": "0.2.5",
   "description": "A React renderer for Unreal Motion Graphics With Unreal.js",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ncsoft/React-UMG.git"
+    "url": "https://github.com/DimensionLab/React-UMG.git"
   },
   "bugs": {
-    "url": "https://github.com/ncsoft/React-UMG/issues"
+    "url": "https://github.com/DimensionLab/React-UMG/issues"
   },
   "keywords": [
     "unreal.js",
@@ -19,11 +19,18 @@
     "react",
     "umg"
   ],
-  "author": {
-    "name": "NCSOFT",
-    "email": "crocuis@ncsoft.com",
-    "url": "http://ncsoft.com"
-  },
+  "authors": [
+    {
+      "name": "DimensionLab",
+      "email": "takacmichal92@gmail.com",
+      "url": "https://dimensionlab.org"
+    },
+    {
+      "name": "NCSOFT",
+      "email": "crocuis@ncsoft.com",
+      "url": "http://ncsoft.com"
+    }
+  ],
   "license": "MIT",
   "dependencies": {
     "fbjs": "^0.8.3",
